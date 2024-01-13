@@ -17,6 +17,7 @@
 Cкриншоты с настройками раннера:
  
 ![Скриншот 1](https://github.com/bodra84/8-03-hw/blob/main/img/1_1.png)
+  
 ![Скриншот 2](https://github.com/bodra84/8-03-hw/blob/main/img/1_2.png)
 
 ---
