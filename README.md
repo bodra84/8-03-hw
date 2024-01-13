@@ -14,18 +14,10 @@
 
 ### Решение 1
  
-Cкриншоты с настройками проекта:
+Cкриншоты с настройками раннера:
  
 ![Скриншот 1](https://github.com/bodra84/8-03-hw/blob/main/img/1_1.png)
 ![Скриншот 2](https://github.com/bodra84/8-03-hw/blob/main/img/1_2.png)
-
- 
-Cкриншоты c результатами выполнения сборки:
-
-![Скриншот 3](https://github.com/bodra84/8-03-hw/blob/main/img/1_3.png)
-![Скриншот 4](https://github.com/bodra84/8-03-hw/blob/main/img/1_4.png)
-![Скриншот 5](https://github.com/bodra84/8-03-hw/blob/main/img/1_5.png)
-![Скриншот 6](https://github.com/bodra84/8-03-hw/blob/main/img/1_6.png)
 
 ---
 
