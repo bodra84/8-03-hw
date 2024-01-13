@@ -56,9 +56,10 @@ build:
    - docker build .
 ```
   
-Cкриншот  с успешно собранными сборками:
+Cкриншоты  с успешно собранными сборками:
 
 ![Скриншот 3](https://github.com/bodra84/8-03-hw/blob/main/img/2_1.png)
+  
 ![Скриншот 4](https://github.com/bodra84/8-03-hw/blob/main/img/2_2.png)
 
 ---
