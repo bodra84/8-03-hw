@@ -37,14 +37,28 @@ Cкриншоты с настройками раннера:
 ---
 ### Решение 2
 
+Листинг кода из файла gitlab-ci.yml:...
 
-Cкриншот с настройками проекта:
+stages:
+  - test
+  - build
 
-![Скриншот 1](https://github.com/bodra84/8-03-hw/blob/main/img/2_1.png)
+test:
+  stage: test
+  image: golang:1.17
+  script:
+   - go test .
 
+build:
+  stage: build
+  image: docker:latest
+  script:
+   - docker build .
+```
+  
+Cкриншот  с успешно собранными сборками:
 
-Cкриншот c результатами выполнения сборки:
-
-![Скриншот 3](https://github.com/bodra84/8-03-hw/blob/main/img/2_2.png)
+![Скриншот 3](https://github.com/bodra84/8-03-hw/blob/main/img/2_1.png)
+![Скриншот 4](https://github.com/bodra84/8-03-hw/blob/main/img/2_2.png)
 
 ---
